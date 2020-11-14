@@ -1,1 +1,1 @@
-# Surface-type-classification-for-robotic-navigation-
+# Surface type classification for robotic navigation
